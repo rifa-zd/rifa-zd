@@ -54,7 +54,8 @@ Right now, I am mostly working with **Django + PostgreSQL**, but on my own I lea
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" height="20" />
 </p>
 
----
+# Git Status
+
 <div align="center">
 
 <a href="https://github.com/rifa-zd">
